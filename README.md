@@ -1,0 +1,2 @@
+#GAN
+##This repository contains the code and results for my Generative Adversarial Networks (GANs) assignment completed as part of the Advanced Research Topics in Data Science module. It includes implementations of GANs and DCGANs using synthetic data, OCTMNIST retinal images, the CICIDS 2017 cybersecurity dataset, and the QuickDraw birthday cake dataset. The repository also contains training scripts, generated outputs, visualisations and evaluation metrics used to assess the performance of each model.
